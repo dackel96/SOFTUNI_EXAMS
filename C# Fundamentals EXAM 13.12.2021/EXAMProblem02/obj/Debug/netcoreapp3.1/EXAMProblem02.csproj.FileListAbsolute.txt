@@ -1,0 +1,14 @@
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\bin\Debug\netcoreapp3.1\EXAMProblem02.exe
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\bin\Debug\netcoreapp3.1\EXAMProblem02.deps.json
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\bin\Debug\netcoreapp3.1\EXAMProblem02.runtimeconfig.json
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\bin\Debug\netcoreapp3.1\EXAMProblem02.runtimeconfig.dev.json
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\bin\Debug\netcoreapp3.1\EXAMProblem02.dll
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\bin\Debug\netcoreapp3.1\EXAMProblem02.pdb
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\obj\Debug\netcoreapp3.1\EXAMProblem02.csproj.AssemblyReference.cache
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\obj\Debug\netcoreapp3.1\EXAMProblem02.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\obj\Debug\netcoreapp3.1\EXAMProblem02.AssemblyInfoInputs.cache
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\obj\Debug\netcoreapp3.1\EXAMProblem02.AssemblyInfo.cs
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\obj\Debug\netcoreapp3.1\EXAMProblem02.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\obj\Debug\netcoreapp3.1\EXAMProblem02.dll
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\obj\Debug\netcoreapp3.1\EXAMProblem02.pdb
+D:\VISUAL STUDIOS\source\repos\RETAKEPREP\EXAMProblem02\obj\Debug\netcoreapp3.1\EXAMProblem02.genruntimeconfig.cache

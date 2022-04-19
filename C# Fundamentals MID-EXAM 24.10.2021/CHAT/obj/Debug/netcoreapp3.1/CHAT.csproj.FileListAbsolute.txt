@@ -1,0 +1,14 @@
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\bin\Debug\netcoreapp3.1\CHAT.exe
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\bin\Debug\netcoreapp3.1\CHAT.deps.json
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\bin\Debug\netcoreapp3.1\CHAT.runtimeconfig.json
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\bin\Debug\netcoreapp3.1\CHAT.runtimeconfig.dev.json
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\bin\Debug\netcoreapp3.1\CHAT.dll
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\bin\Debug\netcoreapp3.1\CHAT.pdb
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\obj\Debug\netcoreapp3.1\CHAT.csproj.AssemblyReference.cache
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\obj\Debug\netcoreapp3.1\CHAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\obj\Debug\netcoreapp3.1\CHAT.AssemblyInfoInputs.cache
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\obj\Debug\netcoreapp3.1\CHAT.AssemblyInfo.cs
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\obj\Debug\netcoreapp3.1\CHAT.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\obj\Debug\netcoreapp3.1\CHAT.dll
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\obj\Debug\netcoreapp3.1\CHAT.pdb
+D:\VISUAL STUDIOS\source\repos\FUNDAMETALS MID-EXAM\CHAT\obj\Debug\netcoreapp3.1\CHAT.genruntimeconfig.cache
