@@ -1,2 +1,2 @@
 # SOFTUNI_EXAMS
-my Exams Tasks from Softuni
+my Exams from Softuni
