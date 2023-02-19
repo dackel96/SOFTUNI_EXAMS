@@ -1,0 +1,200 @@
+:root {
+  --btn-clr: #370511;
+}
+
+body {
+  font-family: Poppins;
+}
+
+/*Navigation*/
+
+.hero-img {
+  position: absolute;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.navigation-bar {
+  position: relative;
+  display: flex;
+  justify-content: right;
+  padding: 2rem 3rem;
+  max-width: 1500px;
+}
+
+#title {
+  position: absolute;
+  top: 23px;
+  left: 47px;
+  margin-left: 85px;
+  font-size: 2.2rem;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+}
+
+.navigation li {
+  margin-right: 2rem;
+  text-decoration: none;
+}
+
+.navigation li a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.nav-btn-wrapp {
+  display: flex;
+}
+
+.btn {
+  border-radius: 2.5rem;
+  padding: 0.2rem 3rem;
+  border: none;
+  background-color: var(--btn-clr);
+  color: white;
+  cursor: pointer;
+}
+
+/*Hero Info*/
+
+.hero-info {
+  margin-top: 9rem;
+  margin-left: 130px;
+}
+
+.hero-title {
+  font-size: 5rem;
+}
+
+.hero-subtitle {
+  font-weight: normal;
+  padding: 5px;
+  font-size: 2.5rem;
+}
+
+.hero-headings {
+  margin-bottom: 1.5rem;
+}
+
+.hero-desc {
+  padding: 5px;
+  font-size: 1.5rem;
+  max-width: 700px;
+}
+
+.hero-btn {
+  margin-left: 5px;
+  margin-top: 1.5rem;
+}
+
+/*Main Content*/
+
+.main {
+  margin-top: 15rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.main .headings {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.destination-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5rem;
+}
+
+.card-img {
+  width: 350px;
+  height: 350px;
+}
+
+.card-content {
+  width: 300px;
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+
+.card-title {
+  margin-bottom: 1rem;
+}
+
+.card-desc {
+  margin-bottom: 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.card-btn {
+  border-radius: 2.5rem;
+  padding: 1rem 2.5rem;
+  border: 1px solic black;
+  color: black;
+  cursor: pointer;
+}
+
+/*Footer*/
+
+.footer {
+  position: relative;
+  height: 30%;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.footer-title {
+  margin-left: 12rem;
+  font-size: 3rem;
+}
+
+.footer-content {
+  margin-right: 36rem;
+  margin-left: auto;
+  display: flex;
+  flex: 0 0 30%;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+  margin-bottom: 0.5rem;
+  width: 100%;
+  display: block;
+}
+
+.footer-media {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  right: 18rem;
+}
+
+.footer-media li {
+  display: inline-block;
+  margin-right: 0.5rem;
+}
+
+.footer-site-info {
+  margin-left: 4rem;
+}

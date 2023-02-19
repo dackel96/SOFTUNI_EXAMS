@@ -1,0 +1,60 @@
+:root {
+  --section-bg: #d0bc98;
+  --card-title-bg: #685660;
+  --side-menu-clr: #67535d;
+}
+
+body {
+  font-family: Montserrat, sans;
+}
+
+.container {
+  background-color: var(--section-bg);
+  padding: 2rem;
+  display: flex;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3rem;
+  width: 75%;
+}
+
+.card {
+  overflow: hidden;
+  border-radius: 0.5rem;
+  border: 1px solid black;
+}
+
+.card-img {
+  object-fit: cover;
+  width: 100%;
+  height: 90%;
+}
+
+.card-label {
+  background-color: var(--card-title-bg);
+  color: white;
+  padding-left: 0.5rem;
+  height: 10%;
+}
+
+.side-menu {
+  margin-left: 3rem;
+  color: var(--side-menu-clr);
+}
+
+.side-menu .title-side-menu {
+  margin-bottom: 1rem;
+}
+
+.fa-solid {
+  margin-right: 0.5rem;
+}
+
+.list-item {
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
